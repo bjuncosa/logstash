@@ -4,5 +4,5 @@ MAINTAINER Borja Juncosa <borja.juncosa@socialpoint.es>
 COPY conf/ /conf
 COPY start.sh /
 
-CMD start.sh
+CMD /start.sh
 
